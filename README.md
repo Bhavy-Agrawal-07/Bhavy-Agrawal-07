@@ -13,6 +13,3 @@ CSE Engineer | 3D Artist (Blender) | Robotics & Arduino | Learning C/C++, Python
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bhavy-Agrawal-07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bhavy-Agrawal-07&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
