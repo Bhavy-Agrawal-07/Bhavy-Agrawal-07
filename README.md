@@ -1,5 +1,5 @@
 # 💫 About Me:
-CSE Student | 3D Artist (Blender) | Robotics & Arduino | Learning C/C++, Python, Java
+CSE Engineer | 3D Artist (Blender) | Robotics & Arduino | Learning C/C++, Python, Java
 
 
 ## 🌐 Socials:
